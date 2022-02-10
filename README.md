@@ -12,3 +12,5 @@ pip install -r requirements.txt
 ```lang=bash
 python main.py
 ```
+## Stop the script
+Move your mouse to the upper left corner of screen, for more infomation, please read [this](https://pyautogui.readthedocs.io/en/latest/quickstart.html#fail-safes).
